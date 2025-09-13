@@ -1,5 +1,5 @@
-# pokemon-character-filter
-A Python web app used to dynamically filter Pokémon characters.
+# pokemon-filter
+A Python web app used to dynamically filter Pokémon.
 ---
 
 ## 🎥 Demo
