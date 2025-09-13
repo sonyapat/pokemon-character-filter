@@ -10,9 +10,9 @@ An interactive Python web app that lets users filter Pokémon by type, ability, 
 
 **Web App Framework:** JavaFX
 
-**Persistence:** PokéAPI
+**RESTful API:** PokéAPI
 
-**Security:** requests, pandas, concurrent.futures
+**Libraries:** requests, pandas, concurrent.futures
 
 ## ✨ Features
 - Displays Pokémon with images, types, abilities, and base experience
