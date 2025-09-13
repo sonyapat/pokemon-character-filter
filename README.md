@@ -22,4 +22,4 @@ An interactive Python web app used to filter Pokémon by type, ability, and base
 
 ## 🔮 Future Improvements
 - Favorites list or custom team builder
-- Improved UI with search bar and better grid organization
+- Improved UI with search bar
