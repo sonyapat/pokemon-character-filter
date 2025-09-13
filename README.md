@@ -14,7 +14,7 @@ Python web app that dynamically filters Pokémon
 
 **RESTful API:** PokéAPI
 
-**Libraries:** requests, pandas, concurrent.futures
+**Libraries:** pandas, requests, concurrent.futures
 
 ## ✨ Features
 - Displays Pokémon with images, types, abilities, and base experience
