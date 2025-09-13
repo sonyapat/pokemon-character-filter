@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import concurrent.futures
 
-st.title("Pokémon Character Filter")
+st.title("Pokémon Filter")
 
 # --- Fetch Pokémon list ---
 @st.cache_data
