@@ -23,4 +23,5 @@ Python web app that dynamically filters Pokémon
 - Responsive grid layout for displaying results
 
 ## 🔮 Future Improvements
+- Ability to favorite Pokémon for quick access
 - Alphabetical ordering of fetched Pokémon
