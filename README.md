@@ -5,6 +5,8 @@ A Python web app used to dynamically filter Pokémon.
 ## 🎥 Demo
 ![App Demo](pokemonfilterdemo.gif)
 
+## Try it out: https://pokemonfilter.streamlit.app/
+
 ## 🛠️ Tech Stack
 **Language:** Python
 
