@@ -1,10 +1,11 @@
 # pokemon-filter
 Python web app that dynamically filters Pokémon
 ---
-## Try it out! https://pokemonfilter.streamlit.app/
 
 ## 🎥 Demo
 ![App Demo](pokemonfilterdemo.gif)
+
+## Try it out! https://pokemonfilter.streamlit.app/
 
 ## 🛠️ Tech Stack
 **Language:** Python
