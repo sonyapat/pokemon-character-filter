@@ -8,7 +8,7 @@ An interactive Python web app used to filter Pokémon by type, ability, and base
 ## 🛠️ Tech Stack
 **Language:** Python
 
-**Web App Framework:** JavaFX
+**Web App Framework:** Streamlit
 
 **RESTful API:** PokéAPI
 
