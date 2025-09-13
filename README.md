@@ -1,5 +1,5 @@
 # pokemon-character-filter
-A Python web app that lets users filter Pokémon by type, ability, and base experience.
+An interactive Python web app that lets users filter Pokémon by type, ability, and base experience.
 ---
 
 ## 🎥 Demo
@@ -15,7 +15,6 @@ A Python web app that lets users filter Pokémon by type, ability, and base expe
 **Security:** requests, pandas, concurrent.futures
 
 ## ✨ Features
-- Fetches the first 150 Pokémon from the PokéAPI
 - Displays Pokémon with images, types, abilities, and base experience
 - Interactive sidebar filters for type and ability
 - Concurrent requests for faster data fetching
