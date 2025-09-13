@@ -24,3 +24,4 @@ A Python web app used to dynamically filter Pokémon.
 ## 🔮 Future Improvements
 - Favorites list or custom team builder
 - Improved UI with search bar
+- Alphabetical ordering of Pokémon
