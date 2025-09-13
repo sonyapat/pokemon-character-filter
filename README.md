@@ -1,5 +1,5 @@
 # pokemon-filter
-A Python web app used to dynamically filter Pokémon.
+Python web app that dynamically filters Pokémon
 ---
 ## Try it out! https://pokemonfilter.streamlit.app/
 
