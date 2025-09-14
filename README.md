@@ -16,7 +16,7 @@ Python web app that dynamically filters Pokémon
 
 **Libraries:** pandas, requests, concurrent.futures
 
-## ✨ Features
+## ✨ Features 
 - Displays Pokémon with images, types, abilities, and base experience
 - Interactive sidebar filters for type and ability
 - Concurrent requests for faster data fetching
